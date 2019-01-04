@@ -7,7 +7,7 @@ MAINTAINER Manuel DUQUESNOY <manuel.duquesnoy@homeserve.fr>
 WORKDIR /usr/app
 
 #copy file source
-ADD . .
+COPY . .
 
 RUN npm install
 
