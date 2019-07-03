@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/Banusion/SkaffoldTest/compare/v1.0.0...v2.0.0) (2019-07-03)
+
+
+### Features
+
+* add new message ([38e65e1](https://github.com/Banusion/SkaffoldTest/commit/38e65e1))
+
+
+### BREAKING CHANGES
+
+* add new thinh
+
 # 1.0.0 (2019-07-03)
 
 
