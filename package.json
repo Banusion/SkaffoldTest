@@ -18,11 +18,6 @@
     "url": "https://github.com/Banusion/SkaffoldTest/issues"
   },
   "homepage": "https://github.com/Banusion/SkaffoldTest#readme",
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
-  },
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
