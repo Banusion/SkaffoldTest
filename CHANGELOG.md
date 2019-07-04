@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/Banusion/SkaffoldTest/compare/v2.0.0...v3.0.0) (2019-07-04)
+
+
+### Features
+
+* **api:** change port connexion ([0765360](https://github.com/Banusion/SkaffoldTest/commit/0765360))
+
+
+### BREAKING CHANGES
+
+* **api:** change port connexion to micro-service
+
 # [2.0.0](https://github.com/Banusion/SkaffoldTest/compare/v1.0.0...v2.0.0) (2019-07-03)
 
 
