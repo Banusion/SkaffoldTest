@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/Banusion/SkaffoldTest/compare/v3.0.0...v3.0.1) (2019-07-04)
+
+
+### Bug Fixes
+
+* **functional:** fix issue with message ([3358025](https://github.com/Banusion/SkaffoldTest/commit/3358025)), closes [#1](https://github.com/Banusion/SkaffoldTest/issues/1)
+
 # [3.0.0](https://github.com/Banusion/SkaffoldTest/compare/v2.0.0...v3.0.0) (2019-07-04)
 
 
