@@ -1,3 +1,20 @@
+# [4.0.0](https://github.com/Banusion/SkaffoldTest/compare/v3.0.1...v4.0.0) (2019-07-04)
+
+
+### Bug Fixes
+
+* **functional:** fix bug message ([c158e33](https://github.com/Banusion/SkaffoldTest/commit/c158e33)), closes [#2](https://github.com/Banusion/SkaffoldTest/issues/2)
+
+
+### Features
+
+* **api:** reverse port change ([f051ca0](https://github.com/Banusion/SkaffoldTest/commit/f051ca0)), closes [#3](https://github.com/Banusion/SkaffoldTest/issues/3)
+
+
+### BREAKING CHANGES
+
+* **api:** port change
+
 ## [3.0.1](https://github.com/Banusion/SkaffoldTest/compare/v3.0.0...v3.0.1) (2019-07-04)
 
 
