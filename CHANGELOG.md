@@ -1,3 +1,10 @@
+## [4.0.1](https://github.com/Banusion/SkaffoldTest/compare/v4.0.0...v4.0.1) (2019-07-05)
+
+
+### Bug Fixes
+
+* **api:** change wording ([dea7e05](https://github.com/Banusion/SkaffoldTest/commit/dea7e05)), closes [#5](https://github.com/Banusion/SkaffoldTest/issues/5)
+
 # [4.0.0](https://github.com/Banusion/SkaffoldTest/compare/v3.0.1...v4.0.0) (2019-07-04)
 
 
