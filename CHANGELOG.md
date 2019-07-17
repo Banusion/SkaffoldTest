@@ -1,3 +1,10 @@
+# [4.1.0](https://github.com/Banusion/SkaffoldTest/compare/v4.0.1...v4.1.0) (2019-07-17)
+
+
+### Features
+
+* **api:** change message welcome ([8f61475](https://github.com/Banusion/SkaffoldTest/commit/8f61475))
+
 ## [4.0.1](https://github.com/Banusion/SkaffoldTest/compare/v4.0.0...v4.0.1) (2019-07-05)
 
 

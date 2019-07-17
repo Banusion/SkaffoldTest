@@ -1,6 +1,6 @@
 {
   "name": "skaffoldtest",
-  "version": "4.0.1",
+  "version": "4.1.0",
   "description": "test with skaffold",
   "main": "index.js",
   "scripts": {
